@@ -1,0 +1,14 @@
+accelerate
+datasets
+gradio
+jupyter
+kagglehub
+matplotlib
+nltk
+numpy
+pandas
+scikit-learn
+seaborn
+tensorflow
+torch
+transformers
